@@ -1,5 +1,4 @@
 # Line Follower Robot 🤖
-Arduino-based line follower robot with gesture control, wireless communication, and seed-dropping mechanism
 
 An Arduino-based autonomous robot that follows a predefined path using IR sensors. 
 The project also includes gesture-based manual control, wireless communication, 
